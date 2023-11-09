@@ -1,5 +1,3 @@
 # Salveeeeeee galeraaa
 
-# PUTA QUE O PARIU LEK
-
-# teste
+## PUTA QUE O PARIU LEK
